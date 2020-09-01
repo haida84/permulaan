@@ -2,5 +2,5 @@ Permulaan
 -istiqamah belajar pembangunan web
 -membuat platform untuk pengelolaan video
 -membuat forum diskusi
--membuat merch shop
 -kolaborasi dengan lebih banyak expert
+membuat vlog
