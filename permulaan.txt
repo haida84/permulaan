@@ -1,0 +1,4 @@
+Permulaan
+-istiqamah belajar pembangunan web
+-membuat platform untuk pengelolaan video
+-membuat forum diskusi
